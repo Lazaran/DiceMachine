@@ -1,3 +1,4 @@
+import * as THREE from 'three';
 
 const faceRes = 3200
 
